@@ -7,6 +7,13 @@ Icon?
 .Spotlight-V100
 .Trashes
 
+# Swift Package Manager
+/.build
+/Packages
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
 # Xcode
 build/
 DerivedData/
